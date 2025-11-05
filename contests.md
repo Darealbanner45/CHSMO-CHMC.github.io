@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Contests
 ---
 
 <p align="center">

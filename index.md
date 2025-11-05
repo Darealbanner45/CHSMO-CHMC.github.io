@@ -8,12 +8,12 @@ Next CHSMO : **CHSMO NOVEMBER CONTEST 2026**
 ---
 
 # CHSMO DECEMBER CONTEST 2025
-| Rank | Name | Score Part A | Score Part B |
-|------|------|-------|-------|
-| 1 | Example Name | | |
-| 2 | Example Name | | |
-| 3 | Example Name | | |
-| 4 | ... | ... | |
+| Rank | Name | Score Part A | Score Part B - #1 | Score Part B - #1 | Score Part B - #1 |
+|------|------|-------|-------|-------|-------|
+| 1 | Example Name | | | | |
+| 2 | Example Name | | | | |
+| 3 | Example Name | | | | |
+| 4 | ... | ... | | | |
 
 ---
 

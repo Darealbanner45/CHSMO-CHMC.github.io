@@ -7,7 +7,7 @@ Next CHSMO : **CHSMO NOVEMBER CONTEST 2026**
 
 ---
 
-# CHSMO DECEMBER CONTEST 2025
+# RECENT CONTEST : CHSMO DECEMBER CONTEST 2025
 | Rank | Name | Score Part A | Score Part B - #1 | Score Part B - #2 | Score Part B - #3 |
 |------|------|-------|-------|-------|-------|
 | 1 | ADMIN | 8 | 7 | 7 | 7 |

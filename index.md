@@ -8,8 +8,8 @@ title: Home
 </p>
 
 <p align="center">
-  <a href="index.md"><b>Home</b></a> •
-  <a href="contests.md">Contests & Results</a>
+  <a href="{{ site.baseurl }}/index.html"><b>Home</b></a> •
+  <a href="{{ site.baseurl }}/contests.html">Contests & Results</a>
 </p>
 
 # Announcements

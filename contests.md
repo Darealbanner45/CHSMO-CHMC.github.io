@@ -8,10 +8,9 @@ title: Contests
 </p>
 
 <p align="center">
-  <a href="index.md">Home</a> •
-  <a href="contests.md"><b>Contests & Results</b></a>
+  <a href="./">Home</a> •
+  <a href="./contests"><b>Contests & Results</b></a>
 </p>
-
 # Past CHSMO Contests & Results
 
 Below are previous CHSMO contests, including rankings and past papers.

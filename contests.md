@@ -13,12 +13,13 @@ Below are previous CHSMO contests, including top scorers and problem downloads.
 
 ---
 
-## **CHSMO 2025**
-| Rank | Name | Score |
-|-----:|------|------:|
-| 1 |  | 100 |
-| 2 |  | 98 |
-| 3 |  | 95 |
+# CHSMO DECEMBER CONTEST 2025
+| Rank | Name | Score Part A | Score Part B - #1 | Score Part B - #2 | Score Part B - #3 |
+|------|------|-------|-------|-------|-------|
+| 1 | ADMIN | 8 | 7 | 7 | 7 |
+| 2 | ... | | | | |
+| 3 | ... | | | | |
+| 4 | ... | ... | | | |
 
 **Problems:**  
 [Download Problems (PDF)](problems/chismo_2025.pdf)

@@ -18,6 +18,11 @@ Next CHSMO : **CHSMO NOVEMBER CONTEST 2026**
 
 ---
 
+#Information
+If the website doesn't work, use this link again : https://darealbanner45.github.io/CHSMO-CHMC.github.io/index.html
+
+---
+
 # Contact Us
 
 LINE ID : **NA**

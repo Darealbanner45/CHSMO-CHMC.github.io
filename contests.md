@@ -7,10 +7,9 @@
   <a href="contests.md"><b>Contests & Results</b></a>
 </p>
 
-# 🏆 CHSMO Contests & Results
+# Past CHSMO Contests & Results
 
-Below are previous CHSMO contests, including top scorers and problem downloads.
-
+Below are previous CHSMO contests, including rankings and past papers. 
 ---
 
 # CHSMO DECEMBER CONTEST 2025

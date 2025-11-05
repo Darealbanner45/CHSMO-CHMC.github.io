@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/cTYUHuh.png" width="600">
+  <img src="https://i.imgur.com/cTYUHuh.png" width="600" alt="CHSMO logo">
 </p>
 
 <p align="center">
@@ -14,9 +14,10 @@ title: Home
 
 # Announcements
 
-Next CHSMO : CHSMO NOVEMBER CONTEST 2026
+Next CHSMO : **CHSMO NOVEMBER CONTEST 2026**
 
 ---
 
 # Contact Us
-LINE ID : NA
+
+LINE ID : **NA**

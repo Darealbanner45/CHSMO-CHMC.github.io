@@ -18,7 +18,7 @@ Below are previous CHSMO contests, including rankings and past papers.
 
 ---
 
-# CHSMO DECEMBER CONTEST RESULTS 2025
+# CHSMO OCTOBER SEAMO TRY OUT CONTEST RESULTS 2025
 
 | Rank | Name  | Score Part A | Score Part B - #1 | Score Part B - #2 | Score Part B - #3 |
 |-----:|-------|-------------:|------------------:|------------------:|------------------:|

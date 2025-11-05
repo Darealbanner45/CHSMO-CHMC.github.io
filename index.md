@@ -4,12 +4,12 @@ title: Home
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/cTYUHuh.png" width="600">
+  <img src="https://i.imgur.com/cTYUHuh.png" width="600">
 </p>
 
 <p align="center">
-  <a href="/CHSMO-CHMC.github.io/"><b>Home</b></a> •
-  <a href="/CHSMO-CHMC.github.io/contests">Contests & Results</a>
+  <a href="index.md"><b>Home</b></a> •
+  <a href="contests.md">Contests & Results</a>
 </p>
 
 # Announcements

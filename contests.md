@@ -8,8 +8,8 @@ title: Contests & Results
 </p>
 
 <p align="center">
-  <a href="index.md">Home</a> •  
-  <a href="contests.md"><b>Contests & Results</b></a>
+  <a href="{{ site.baseurl }}/index.html">Home</a> •
+  <a href="{{ site.baseurl }}/contests.html"><b>Contests & Results</b></a>
 </p>
 
 # Past CHSMO Contests & Results

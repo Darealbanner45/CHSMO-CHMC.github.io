@@ -7,15 +7,13 @@ Next CHSMO : **CHSMO NOVEMBER CONTEST 2026**
 
 ---
 
-# Ranking Board
-| Rank | Name | Score |
-|------|------|-------|
-| 1 | Example Name | 100 |
-| 2 | Example Name | 98 |
-| 3 | Example Name | 95 |
-| 4 | ... | ... |
-
-> Replace the names and scores as needed.
+# CHSMO DECEMBER CONTEST 2025
+| Rank | Name | Score Part A | Score Part B |
+|------|------|-------|-------|
+| 1 | Example Name | | |
+| 2 | Example Name | | |
+| 3 | Example Name | | |
+| 4 | ... | ... | |
 
 ---
 

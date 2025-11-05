@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/cTYUHuh.png" width="200">
+  <img src="https://i.imgur.com/cTYUHuh.png" width="600">
 </p>
 
 <p align="center">
@@ -21,6 +21,6 @@ Below are previous CHSMO contests, including rankings and past papers.
 | 4 | ... | ... | | | |
 
 **Problems:**  
-[Download Problems (PDF)](problems/chismo_2025.pdf)
+[Download Problems (PDF)](problems/SEAMO-E-TRYOUT.pdf)
 
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Main Page
 ---
 
 <p align="center">

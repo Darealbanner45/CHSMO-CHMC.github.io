@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contests
+title: Contests & Results
 ---
 
 <p align="center">
@@ -8,23 +8,24 @@ title: Contests
 </p>
 
 <p align="center">
-  <a href="./">Home</a> •
-  <a href="./contests"><b>Contests & Results</b></a>
+  <a href="/CHSMO-CHMC.github.io/">Home</a> •
+  <a href="/CHSMO-CHMC.github.io/contests"><b>Contests & Results</b></a>
 </p>
+
 # Past CHSMO Contests & Results
 
 Below are previous CHSMO contests, including rankings and past papers.
 
 ---
 
-## CHSMO DECEMBER CONTEST RESULTS 2025
+# CHSMO DECEMBER CONTEST RESULTS 2025
 
-| Rank | Name | Score Part A | Score Part B - #1 | Score Part B - #2 | Score Part B - #3 |
-|----:|----:|------------:|-----------------:|-----------------:|-----------------:|
-| 1 | ADMIN | 8 | 7 | 7 | 7 |
-| 2 | ... |  |  |  |  |
-| 3 | ... |  |  |  |  |
-| 4 | ... |  |  |  |  |
+| Rank | Name  | Score Part A | Score Part B - #1 | Score Part B - #2 | Score Part B - #3 |
+|-----:|-------|-------------:|------------------:|------------------:|------------------:|
+| 1    | ADMIN | 8            | 7                 | 7                 | 7                 |
+| 2    | ...   |              |                   |                   |                   |
+| 3    | ...   |              |                   |                   |                   |
+| 4    | ...   |              |                   |                   |                   |
 
 **Problems:**  
 [Download Problems (PDF)](problems/SEAMO-E-TRYOUT.pdf)

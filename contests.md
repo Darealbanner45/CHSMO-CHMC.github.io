@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contests & Results
+mathjax: true  # This is the key that tells the layout to load MathJax
 ---
 
 <p align="center">

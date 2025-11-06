@@ -20,8 +20,8 @@ Next CHSMO : **CHSMO DECEMBER CHRISTMAS CONTEST 2025**
 
 # CHSMO Contest Structure
 
-- Preliminary : 10 Short Answer Questions
-- Invitational : 8 Short Answer and 2 Proof-Based
+- Preliminary : 25 Multiple Questions
+- Invitational : 8 Short Answer Questions and 2 Proof-Based Questions
 
 ---
 
@@ -32,6 +32,15 @@ If the website doesn't work, use this link again : https://darealbanner45.github
 
 This is a non-profit contest, and all problems and solutions are free to be used.
 If there are any errors in our problems or solutions you can contact us, with contact information given in the section below.
+
+---
+
+# Weekly Problem
+
+> (CHSMO SEAMO Tryout Paper E 2025) It is known that $x+\frac{1}{x}=1$, hence find the number of trailing zeros of
+> \[
+> \lvert \sum_{k=1}^{2025} x^{2^k}+\frac{1}{x^{2^k}} \rvert !
+> \]
 
 ---
 

@@ -38,9 +38,9 @@ If there are any errors in our problems or solutions you can contact us, with co
 # Weekly Problem
 
 > (CHSMO SEAMO Tryout Paper E 2025) It is known that $x+\frac{1}{x}=1$, hence find the number of trailing zeros of
-> \[
+> $$
 > \lvert \sum_{k=1}^{2025} x^{2^k}+\frac{1}{x^{2^k}} \rvert !
-> \]
+> $$
 
 ---
 

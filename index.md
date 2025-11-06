@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-mathjax: true  # This is the key that tells the layout to load MathJax
+mathjax: true  # This key must be checked by _layouts/default.html to load the script
 ---
 
 <p align="center">
@@ -38,10 +38,10 @@ If there are any errors in our problems or solutions you can contact us, with co
 
 # Weekly Problem
 
-(CHSMO SEAMO Tryout Paper E 2025) It is known that {% raw %}\\[x+\frac{1}{x}=1\\]{% endraw %}, hence find the number of trailing zeros of
+(CHSMO SEAMO Tryout Paper E 2025) It is known that {% raw %}$$x+\frac{1}{x}=1$${% endraw %}, hence find the number of trailing zeros of
 
 {% raw %}
-\\[ \left| \sum_{k=1}^{2025} x^{2^k}+\frac{1}{x^{2^k}} \right| ! \\]
+$$\left| \sum_{k=1}^{2025} x^{2^k}+\frac{1}{x^{2^k}} \right| !$$
 {% endraw %}
 
 ---

@@ -14,7 +14,14 @@ title: Home
 
 # Announcements
 
-Next CHSMO : **CHSMO NOVEMBER CONTEST 2026**
+Next CHSMO : **CHSMO DECEMBER CHRISTMAS CONTEST 2025**
+
+---
+
+# CHSMO Contest Structure
+
+- Preliminary : 10 Short Answer Questions
+- Invitational : 8 Short Answer and 2 Proof-Based
 
 ---
 

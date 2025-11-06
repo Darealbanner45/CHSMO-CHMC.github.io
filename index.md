@@ -22,6 +22,7 @@ Next CHSMO : **CHSMO NOVEMBER CONTEST 2026**
 
 The Cita Hati Student Math Olympiad, or CHSMO for short, is hosted by Cita Hati Math Club students in order to sharpen and increase our math skills.
 If the website doesn't work, use this link again : https://darealbanner45.github.io/CHSMO-CHMC.github.io/index.html
+
 This is a non-profit contest, and all problems and solutions are free to be used.
 If there are any errors in our problems or solutions you can contact us, with contact information given in the section below.
 

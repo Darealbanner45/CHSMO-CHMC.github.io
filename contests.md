@@ -19,14 +19,30 @@ Below are previous CHSMO contests, including rankings and past papers.
 
 ---
 
-# SEAMO TRY OUT CONTEST RESULTS 2025
+# December Contest 2025
+
+| Rank | Name  | Score Part A | Score Part B | Medal |
+|-----|-------|-------------|------------------|------------------|
+| 1    | ADMIN | 10 | 10 | NA |
+| 1    | J.W | - | - | NA |
+| 1    | C.S | - | - | NA |
+| 1    | W.W | - | - | NA |
+| 1    | - | - | - | - |
+| 1    | - | - | - | - |
+
+**Problems:**  
+[Download Problems (PDF)](NA)
+
+---
+
+# Seamo Tryout 2025
 
 | Rank | Name  | Score Part A | Score Part B | Score Part C |   Medal   |  
 |-----|-------|-------------|------------------|------------------|------------------|
 | 1    | ADMIN | 30 | 40 | 30 | Gold |
 | 2    | Justin Wijaya | 18 | 12 | 0 | Bronze |
-| 2    | NA | - | - | - | NA |
-| 2    | NA | - | - | - | NA |
+| 3    | NA | - | - | - | NA |
+| 4    | NA | - | - | - | NA |
 
 **Problems:**  
 [Download Problems (PDF)](problems/SEAMO-E-TRYOUT.pdf)

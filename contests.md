@@ -19,7 +19,7 @@ Below are previous CHSMO contests, including rankings and past papers.
 
 ---
 
-# December Contest 2025
+# December-November Contest 2025
 
 | Rank | Name  | Score Part A | Score Part B | Medal |
 |-----|-------|-------------|------------------|------------------|

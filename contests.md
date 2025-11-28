@@ -32,6 +32,8 @@ Below are previous CHSMO contests, including rankings and past papers.
 
 **Problems:**  
 [Download Problems (PDF)](problems/CHSMO_ENDOFYEAR2025_QUESTIONS.pdf)
+**Submission Form**
+[Submission Form](https://forms.gle/fh6T1VvzFLhihSRK6)
 
 ---
 

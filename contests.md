@@ -21,19 +21,20 @@ Below are previous CHSMO contests, including rankings and past papers.
 
 # December-November Contest 2025
 
-| Rank | Name  | Score Part A | Score Part B | Medal |
-|-----|-------|-------------|------------------|------------------|
-| 1    | ADMIN | 10 | 10 | NA |
-| 1    | J.W | - | - | NA |
-| 1    | C.S | - | - | NA |
-| 1    | W.W | - | - | NA |
-| 1    | - | - | - | - |
-| 1    | - | - | - | - |
+| Rank | Name  | Score | Medal |
+|-----|-------|-------------|------------------|
+| 1    | ADMIN | 10 | TEST |
+| 1    | J.W | - | - |
+| 1    | C.S | - | - |
+| 1    | W.W | - | - |
+| 1    | - | - | - |
+| 1    | - | - | - |
 
 **Problems:**  
 [Download Problems (PDF)](problems/CHSMO_ENDOFYEAR2025_QUESTIONS.pdf)
 **Submission Form**
 [Submission Form](https://forms.gle/fh6T1VvzFLhihSRK6)
+
 
 ---
 

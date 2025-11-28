@@ -21,9 +21,9 @@ Below are previous CHSMO contests, including rankings and past papers.
 
 # December-November Contest 2025
 
-| Rank | Name  | Score | Medal |
+| Rank | Name  | Score/12 | Medal |
 |-----|-------|-------------|------------------|
-| 1    | ADMIN | 10 | TEST |
+| 1    | ADMIN | 12 | TEST |
 | 1    | J.W | - | - |
 | 1    | C.S | - | - |
 | 1    | W.W | - | - |

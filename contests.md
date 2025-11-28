@@ -23,7 +23,7 @@ Below are previous CHSMO contests, including rankings and past papers.
 
 | Rank | Name  | Score/12 | Medal |
 |-----|-------|-------------|------------------|
-| 1    | ADMIN | 12 | TEST |
+| 1    | ADMIN | 12 | Gold |
 | 1    | J.W | - | - |
 | 1    | C.S | - | - |
 | 1    | W.W | - | - |

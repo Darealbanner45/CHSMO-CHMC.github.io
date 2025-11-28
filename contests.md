@@ -33,7 +33,7 @@ Below are previous CHSMO contests, including rankings and past papers.
 **Problems:**  
 [Download Problems (PDF)](problems/CHSMO_ENDOFYEAR2025_QUESTIONS.pdf)
 
-Correction : For Number 1, m,n are integers with m>n, For number 7, for the denominator its 1+na_n
+Correction : For Number 1, m,n are integers with m>n, For number 7, for the denominator its 1+na_n, For number 12 its f(x), not g(x)
 
 **Submission Form**
 [Submission Form](https://forms.gle/fh6T1VvzFLhihSRK6)

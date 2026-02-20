@@ -16,6 +16,24 @@ mathjax: true  # This is the key that tells the layout to load MathJax
 # Past CHSMO Contests & Results
 
 Below are previous CHSMO contests, including rankings and past papers.
+---
+
+# 2026 CHSMO February Contest
+
+| Rank | Name  | Score / 40 | Medal |
+|-----|-------|-------------|------------------|
+| 1    | B.R.S | - | - |
+| 1    | J.W | - | - |
+| 1    | C.S | - | - |
+| 1    | W.W | - | - |
+| 1    | ADMIN | 14 | Bronze |
+| 1    | - | - | - |
+| 1    | - | - | - |
+| 1    | - | - | - |
+
+**Problems:**  
+[Download Problems (PDF)](problems/SEAMO-E-TRYOUT.pdf)
+
 
 ---
 
